@@ -9,7 +9,12 @@
 5. Using these average variables I then created multi variable plots with the matplot library to further explain the averages
 6. Lastly I created an explanatory visualization to compare the annual average data between males and females
 
-![Boxplot](saved_figure.png)
+![Boxplot](https://user-images.githubusercontent.com/77306280/147896725-b0dbd6f6-bfd1-4933-9f08-0cefa9c68b25.png)
+
+- [x] Clean Data
+- [x] Create Visualizations
+- [ ] Train and test data
+- [ ] Create and apply predictive model
 
 [Gender Inequality in HIV and Aids; Male vs Fmale]https://github.com/robsworld718/Gender_Inequality_HIV)
 Please follow the link to view the code from the homepage. [^1]
